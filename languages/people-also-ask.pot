@@ -1,0 +1,310 @@
+# Translation of People Also Ask Plugin
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-02-26 21:34:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Enter Keywords"
+msgstr ""
+
+msgid "Serial: People Also Ask Premium"
+msgstr ""
+
+msgid "Scrapper API"
+msgstr ""
+
+msgid "SERP API Key"
+msgstr ""
+
+msgid "Click here to get your API Key from SerpAPI"
+msgstr ""
+
+msgid "DataForSEO - API login"
+msgstr ""
+
+msgid "DataForSEO - API password"
+msgstr ""
+
+msgid "Click here to get your username and password at DataForSEO"
+msgstr ""
+
+msgid "Google Language"
+msgstr ""
+
+msgid "Post Status"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Search Depth"
+msgstr ""
+
+msgid "level search"
+msgstr ""
+
+msgid "levels search"
+msgstr ""
+
+msgid "Post Hierarchy"
+msgstr ""
+
+msgid "Maximum number of simultaneous requests"
+msgstr ""
+
+msgid "Include YouTube video"
+msgstr ""
+
+msgid "Display link \"See full answer at...\""
+msgstr ""
+
+msgid "Display link \"Removal Request\""
+msgstr ""
+
+msgid "Removal request page"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Error decoding JSON"
+msgstr ""
+
+msgid "Error decoding JSON (1)"
+msgstr ""
+
+msgid "Error decoding JSON (2)"
+msgstr ""
+
+msgid "Error: Check if your API key is correct https://serpapi.com/manage-api-key"
+msgstr ""
+
+msgid "Important: Insufficient balance! Buy credits from the DataForSEO API"
+msgstr ""
+
+msgid "Important: Your DataForSEO API has been blocked. Contact DataForSEO"
+msgstr ""
+
+msgid "Error: Select the Google country where you want to search in the Plugin settings"
+msgstr ""
+
+msgid "Important: Choose the type of Scrapper API you will use in the Plugin settings"
+msgstr ""
+
+msgid "Important: Enter the Scrapper API credentials you will use in the Plugin settings"
+msgstr ""
+
+msgid "Keyword"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Error: code"
+msgstr ""
+
+msgid "Use the version"
+msgstr ""
+
+msgid "The Demo version of the plugin allows you to generate 25 posts"
+msgstr ""
+
+msgid "The <strong><i>Premium</i></strong> version allows you to generate unlimited posts!"
+msgstr ""
+
+msgid "Get the Premium version now!"
+msgstr ""
+
+msgid "Each keyword will be a new article created"
+msgstr ""
+
+msgid "Require"
+msgstr ""
+
+msgid "Save keywords"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Edit Post"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "No content"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Error: Enter the word"
+msgstr ""
+
+msgid "Important: Unauthorized website"
+msgstr ""
+
+msgid "Important: Domain blocked. Please contact our support"
+msgstr ""
+
+msgid "Important: Serial inactive. Please contact our support"
+msgstr ""
+
+msgid "Important: Serial expired. Please contact our support, or renew your subscription"
+msgstr ""
+
+msgid "Important: Invalid serial. Please contact our support"
+msgstr ""
+
+msgid "Important: Serial already in use. Please contact our support"
+msgstr ""
+
+msgid "Important: Problem connecting to the database"
+msgstr ""
+
+msgid "Important: You used the XPTO Free credits available in the Demo version. Please UPGRADE to the Premium (unlimited) version at https://peoplealsoaskplugin.com"
+msgstr ""
+
+msgid "Topic Parent Processed"
+msgstr ""
+
+msgid "Question processed"
+msgstr ""
+
+msgid "Questions processed"
+msgstr ""
+
+msgid "Restarting"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Important:"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Removal Request"
+msgstr ""
+
+msgid "See the full answer at"
+msgstr ""
+
+msgid "Select a Scrapper API in the Plugin settings!"
+msgstr ""
+
+msgid "Register the DataForSEO API user in the Plugin settings!"
+msgstr ""
+
+msgid "Register the DataForSEO API password in the Plugin settings!"
+msgstr ""
+
+msgid "Register the SerpAPI API key in the Plugin settings!"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Questions are scraped from Google through Scrapping services, which use Proxies to avoid blocking"
+msgstr ""
+
+msgid "We recommend that you test the 2 APIs before purchasing your plans. Both offer some free credits:"
+msgstr ""
+
+msgid "<strong>SerpAPI:</strong> Faster, more expensive"
+msgstr ""
+
+msgid "<strong>DataForSEO:</strong> Slower, cheaper"
+msgstr ""
+
+msgid "Get 100 free credits upon registration"
+msgstr ""
+
+msgid "Get 400 free credits upon registration"
+msgstr ""
+
+msgid "Google language where questions will be scraped"
+msgstr ""
+
+msgid "Default status of posts when they are created"
+msgstr ""
+
+msgid "Default category for posts when they are created"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "<strong>1 Search level:</strong> Spends 1 credit per article. Content has 4 to 6 H2 headings on average"
+msgstr ""
+
+msgid "<strong>2 Search levels:</strong> Spend 5 credits per article. Content has 20 to 30 H2/H3 headings on average"
+msgstr ""
+
+msgid "<strong>H1 > H2:</strong> Create the heading H1 = Keyword, and the other questions as H2"
+msgstr ""
+
+msgid "<strong>H1 > H2 > H3:</strong> Creates the header H1 = Keyword, the child questions as H2 and the grandchild questions as H3"
+msgstr ""
+
+msgid "<strong>Attention:</strong> Very high numbers can overload your server, or generate blockages in the Scrapping API's"
+msgstr ""
+
+msgid "Whether videos will be included in posts"
+msgstr ""
+
+msgid "Whether to display 'See full answer at....' links in Posts"
+msgstr ""
+
+msgid "Whether 'Request to Remove' links will be displayed on Posts"
+msgstr ""
+
+msgid "removal-request"
+msgstr ""
+
+msgid "Create a page"
+msgstr ""
+
+msgid "on the Blog, and include a contact form on it"
+msgstr ""
+
+msgid "https://peoplealsoaskplugin.com"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Error in API request"
+msgstr ""
+
+msgid "(optional)"
+msgstr ""

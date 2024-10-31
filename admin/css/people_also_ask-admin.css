@@ -1,0 +1,62 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .status-success {
+    color: #00a32a;
+  }
+  
+  .status-warning {
+    color: #dba617;
+  }
+  
+  .status-error {
+    color: #d63638;
+  }
+  
+  .status-info {
+    color: #72aee6;
+  }
+  
+  .oms-palavra {
+    font-weight: 700;
+  }
+  
+  .form-table th {
+    padding: 0;
+  }
+
+  .col-pendente {
+    color: red;
+  }
+  
+  .col-processando {
+    color: blue;
+  } 
+
+  .col-finalizado {
+    color: #00a32a;
+  } 
+
+  .col-rascunho {
+    color: #dba617;
+  } 
+
+
+  form#item_form_config.form-table th {
+    vertical-align: middle;
+}
+
+
+#avisoPremium {
+  padding-right: 38px;
+  position: relative;
+  margin: 5px 0 15px;
+  background: #fff;
+  border: 1px solid #c3c4c7;
+  border-left-color: #72aee6;                
+  border-left-width: 4px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+  padding: 1em;
+}
+

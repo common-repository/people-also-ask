@@ -1,0 +1,23 @@
+.article-actions {
+    display: flex;
+    flex-direction: row;
+    font-size: .75rem;
+    color: #aaa;
+    margin-top: 3px;
+}
+.report-it {
+    display: flex;
+}
+.view-url, .report-it .a {
+    display: flex;
+    align-items: center;
+    color: #aaa !important;
+    text-decoration: none;
+    line-height: 22px;
+    border-bottom: none !important;
+    cursor: pointer;
+}
+.article-actions .spacer {
+    margin: 0 5px;
+    content: '|';
+}

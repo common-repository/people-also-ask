@@ -1,0 +1,311 @@
+# Translation of People Also Ask Plugin
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-10-01 18:20-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Enter Keywords"
+msgstr "Insira as Palavras-chave"
+
+msgid "Serial: People Also Ask Premium"
+msgstr "Serial do People Also Ask Premium"
+
+msgid "Scrapper API"
+msgstr "API de Scrapper"
+
+msgid "SERP API Key"
+msgstr "Chave SERP API"
+
+msgid "Click here to get your API Key from SerpAPI"
+msgstr "Clique aqui para pegar sua API Key na SerpAPI"
+
+msgid "DataForSEO - API login"
+msgstr "DataForSEO - API login"
+
+msgid "DataForSEO - API password"
+msgstr "DataForSEO - API password"
+
+msgid "Click here to get your username and password at DataForSEO"
+msgstr "Clique aqui para pegar seu usuário e senha na DataForSEO"
+
+msgid "Google Language"
+msgstr "Idioma do Google"
+
+msgid "Post Status"
+msgstr "Status do Post"
+
+msgid "Items"
+msgstr "Itens"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Search Depth"
+msgstr "Profundidade da Busca"
+
+msgid "level search"
+msgstr "nível de busca"
+
+msgid "levels search"
+msgstr "níveis de busca"
+
+msgid "Post Hierarchy"
+msgstr "Hierarquia do Post"
+
+msgid "Maximum number of simultaneous requests"
+msgstr "Número máximo de requests simultâneos"
+
+msgid "Include YouTube video"
+msgstr "Incluir video do YT"
+
+msgid "Display link \"See full answer at...\""
+msgstr "Exibir link \"Veja a resposta completa em ...\""
+
+msgid "Display link \"Removal Request\""
+msgstr "Exibir link \"Solicitação de remoção"
+
+msgid "Removal request page"
+msgstr "Página para solicitação de remoção"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Error decoding JSON"
+msgstr "Erro ao decodificar JSON"
+
+msgid "Error decoding JSON (1)"
+msgstr "Erro ao decodificar JSON (1)"
+
+msgid "Error decoding JSON (2)"
+msgstr "Erro ao decodificar JSON (2)"
+
+msgid "Error: Check if your API key is correct https://serpapi.com/manage-api-key"
+msgstr "Erro: Verifique se sua chave de API está correta https://serpapi.com/manage-api-key"
+
+msgid "Important: Insufficient balance! Buy credits from the DataForSEO API"
+msgstr "Importante: Saldo insuficiente! Carregue créditos na API do DataForSEO"
+
+msgid "Important: Your DataForSEO API has been blocked. Contact DataForSEO"
+msgstr "Importante: Sua API do DataForSEO foi bloqueada. Entre em contato com a DataForSEO"
+
+msgid "Error: Select the Google country where you want to search in the Plugin \"settings"
+msgstr "Erro: Informe o país do Google onde deseja pesquisar, nas configurações do Plugin"
+
+msgid "Important: Choose the type of Scrapper API you will use in the Plugin settings"
+msgstr "Importante: Informe o Tipo de API de Scrapper que irá utilizar, nas configurações do Plugin"
+
+msgid "Important: Enter the Scrapper API credentials you will use in the Plugin settings"
+msgstr "Importante: Informe as credenciais da API de Scrapper que irá utilizar, nas configurações do Plugin"
+
+msgid "Keyword"
+msgstr "Palavra-chave"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Error: code"
+msgstr "Erro: código"
+
+msgid "Use the version"
+msgstr "Utilize a versão"
+
+msgid "The Demo version of the plugin allows you to generate 25 posts"
+msgstr "A versão Demo do plugin permite gerar 25 posts"
+
+msgid "The <strong><i>Premium</i></strong> version allows you to generate unlimited posts!"
+msgstr "A versão <strong><i>Premium</i></strong> permite gerar posts ilimitados!"
+
+msgid "Get the Premium version now!"
+msgstr "Adquira a versão Premium agora!"
+
+msgid "Each keyword will be a new article created"
+msgstr "Cada palavra-chave será um novo artigo criado"
+
+msgid "Require"
+msgstr "Obrigatório"
+
+msgid "Save keywords"
+msgstr "Salvar palavras-chave"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "View"
+msgstr "Visualizar"
+
+msgid "Edit Post"
+msgstr "Editar Post"
+
+msgid "Finished"
+msgstr "Finalizado"
+
+msgid "Pending"
+msgstr "Pendente"
+
+msgid "No content"
+msgstr "Sem conteúdo"
+
+msgid "Draft"
+msgstr "Rascunho"
+
+msgid "Published"
+msgstr "Publicado"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Error: Enter the word"
+msgstr "Erro: Informe a palavra"
+
+msgid "Important: Unauthorized website"
+msgstr "Importante: Site não autorizado"
+
+msgid "Important: Domain blocked. Please contact our support"
+msgstr "Importante: Domínio bloqueado. Por favor entre em contato com o nosso suporte"
+
+msgid "Important: Serial inactive. Please contact our support"
+msgstr "Importante: Serial inativo. Por favor entre em contato com o nosso suporte"
+
+msgid "Important: Serial expired. Please contact our support, or renew your subscription"
+msgstr "Importante: Serial expirado. Por favor entre em contato com o nosso suporte, ou renove sua assinatura"
+
+msgid "Important: Invalid serial. Please contact our support"
+msgstr "Importante: Serial inválido. Por favor entre em contato com o nosso suporte"
+
+msgid "Important: Serial already in use. Please contact our support"
+msgstr "Importante: Serial já em uso. Por favor entre em contato com o nosso suporte"
+
+msgid "Important: Problem connecting to the database"
+msgstr "Importante: Problema na conexão com o banco de dados"
+
+msgid "Important: You used the XPTO Free credits available in the Demo version. Please UPGRADE to the Premium (unlimited) version at https://peoplealsoaskplugin.com"
+msgstr "Importante: Você utilizou os XPTO créditos gratuitos disponíveis na versão Demo. Por favor, faça o UPGRADE para a versão Premium (ilimitada) em https://peoplealsoaskplugin.com"
+
+msgid "Topic Parent Processed"
+msgstr "Tópico Pai Processado"
+
+msgid "Question processed"
+msgstr "Pergunta processada"
+
+msgid "Questions processed"
+msgstr "Perguntas processadas"
+
+msgid "Restarting"
+msgstr "Reiniciando"
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "Important:"
+msgstr "Importante:"
+
+msgid "Processing"
+msgstr "Processando"
+
+msgid "Removal Request"
+msgstr "Solicitação de remoção"
+
+msgid "See the full answer at"
+msgstr "Veja a resposta completa em"
+
+msgid "Select a Scrapper API in the Plugin settings!"
+msgstr "Selecione uma API de Scrapper, nas configurações do Plugin!"
+
+msgid "Register the DataForSEO API user in the Plugin settings!"
+msgstr "Cadastre o usuário da API DataForSEO, nas configurações do Plugin!"
+
+msgid "Register the DataForSEO API password in the Plugin settings!"
+msgstr "Cadastre a senha da API DataForSEO, nas configurações do Plugin!"
+
+msgid "Register the SerpAPI API key in the Plugin settings!"
+msgstr "Cadastre a chave da API do SerpAPI, nas configurações do Plugin!"
+
+msgid "Select"
+msgstr "Selecione"
+
+msgid "Questions are scraped from Google through Scrapping services, which use Proxies to avoid blocking"
+msgstr "As perguntas são scrapeadas do Google por meio de serviços de Scrapping, que usam Proxies para evitar bloqueios"
+
+msgid "We recommend that you test the 2 APIs before purchasing your plans. Both offer some free credits:"
+msgstr "Recomendamos que teste as 2 API's, antes de contratar seus planos. Ambos oferecem alguns créditos gratuitos:"
+
+msgid "<strong>SerpAPI:</strong> Faster, more expensive"
+msgstr "<strong>SerpAPI:</strong> Mais rápida, mais cara"
+
+msgid "<strong>DataForSEO:</strong> Slower, cheaper"
+msgstr "<strong>DataForSEO:</strong> Mais lenta, mais barata"
+
+msgid "Get 100 free credits upon registration"
+msgstr "Ganhe 100 créditos grátis no cadastro"
+
+msgid "Get 400 free credits upon registration"
+msgstr "Ganhe 400 créditos grátis no cadastro"
+
+msgid "Google language where questions will be scraped"
+msgstr "Idioma do Google, onde as perguntas serão scrapeadas"
+
+msgid "Default status of posts when they are created"
+msgstr "Status padrão dos posts, quando são criados"
+
+msgid "Default category for posts when they are created"
+msgstr "Categoria padrão dos posts, quando são criados"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "<strong>1 Search level:</strong> Spends 1 credit per article. Content has 4 to 6 H2 headings on average"
+msgstr "<strong>1 nível de Busca:</strong> Gasta 1 crédito por artigo. O conteúdo fica com 4 a 6 cabeçalhos H2 em média"
+
+msgid "<strong>2 Search levels:</strong> Spend 5 credits per article. Content has 20 to 30 H2/H3 headings on average"
+msgstr "<strong>2 níveis  de Busca:</strong> Gasta 5 créditos por artigo. O conteúdo fica com 20 a 30 cabeçalhos H2/H3 em média"
+
+msgid "<strong>H1 > H2:</strong> Create the heading H1 = Keyword, and the other questions as H2"
+msgstr "<strong>H1 > H2:</strong> Cria o cabeçalho H1 = Palavra-chave, e as demais perguntas como H2"
+
+msgid "<strong>H1 > H2 > H3:</strong> Creates the header H1 = Keyword, the child questions as H2 and the grandchild questions as H3"
+msgstr "<strong>H1 > H2 > H3:</strong> Cria o cabeçalho H1 = Palavra-chave, as perguntas filhas como H2 e as perguntas netas como H3"
+
+msgid "<strong>Attention:</strong> Very high numbers can overload your server, or generate blockages in the Scrapping API's"
+msgstr "<strong>Atenção:</strong> Números muito altos podem sobrecarregar o seu servidor, ou gerar bloqueios nas API's de Scrapping"
+
+msgid "Whether videos will be included in posts"
+msgstr "Se serão incluídos vídeos nas postagens"
+
+msgid "Whether to display 'See full answer at....' links in Posts"
+msgstr "Se serão exibidos links de 'Veja a resposta completa em ....' nos Posts"
+
+msgid "Whether 'Request to Remove' links will be displayed on Posts"
+msgstr "Se serão exibidos links de 'Solicitação de remoção' nos Posts"
+
+msgid "removal-request"
+msgstr "solicitar-remocao"
+
+msgid "Create a page"
+msgstr "Crie a página"
+
+msgid "on the Blog, and include a contact form on it"
+msgstr "no Blog, e inclua um formulário de contato nela"
+
+msgid "https://peoplealsoaskplugin.com"
+msgstr "https://peoplealsoaskplugin.com/pt"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Error in API request"
+msgstr "Erro na requisição da API"
+
+msgid "(optional)"
+msgstr "(opcional)"
